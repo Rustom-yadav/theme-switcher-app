@@ -1,5 +1,5 @@
-[🔴 Live Demo](https://your-live-link-here.com)  
-[📦 GitHub Repository](https://github.com/your-username/theme-switcher)
+[🔴 Live Demo](https://rustom-yadav.github.io/theme-switcher-app/)  
+[📦 GitHub Repository](https://github.com/Rustom-yadav/theme-switcher-app)
 
 ---
 
